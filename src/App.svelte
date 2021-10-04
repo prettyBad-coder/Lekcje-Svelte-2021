@@ -6,7 +6,6 @@ import Header from "./components/Header.svelte";
 import Footer from "./components/Footer.svelte";
 import Display from "./routes/Display.svelte";
 import AddItems from "./routes/AddItems.svelte";
-import Delete from "./routes/Delete.svelte";
 </script>
 
 <Header/>
@@ -15,7 +14,6 @@ import Delete from "./routes/Delete.svelte";
 		"/": Home, 
 		"/additems": AddItems,
 		"/display": Display,
-		"/delete": Delete,
 		"*": NotFound, 
 	}}/>
 </main>
