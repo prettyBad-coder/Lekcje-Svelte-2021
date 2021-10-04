@@ -3,7 +3,6 @@
 		<li><a href="/#/">Home</a></li>
 		<li><a href="/#/display">Display</a></li>
 		<li><a href="/#/addItems">AddItems</a></li>
-		<li><a href="/#/delete">DeleteItems</a></li>
 	</ul>	
 </header>
 
