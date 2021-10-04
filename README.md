@@ -1,17 +1,25 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Getting started
 
----
-
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+Clone this repository to htdocs dir.
 
 ```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
+  git clone *clone link*
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+Go to project directory 
 
+```bash
+  cd Lekcje-Svelte-2021
+```
+
+Install packages using yarn / npm
+
+```bash
+  yarn 
+  
+  npm install
+```
+
+Import MySql DB, it is located in root directory as DB.sql
+
+## xD have fun with this shit essa
