@@ -22,4 +22,12 @@ Install packages using yarn / npm
 
 Import MySql DB, it is located in root directory as DB.sql
 
+
+Start project
+
+```bash
+  yarn dev
+```
+
+
 ## xD have fun with this shit essa
